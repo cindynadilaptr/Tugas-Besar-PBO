@@ -1,1 +1,1 @@
-# Tugas-Besar-PBO
+Gopal-Cookies adalah game menembak monster yang terinspirasi dari kartun Boboiboy. Pemain akan berperan sebagai Gopal, pahlawan super dengan kekuatan super menembakkan cookies. Tugas pemain adalah menembak monster bernama Koko Jumbo, Prob, Multi Monster, dan Adudu menggunakan cookies.
