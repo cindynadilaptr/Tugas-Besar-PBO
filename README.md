@@ -22,6 +22,34 @@
     python main.py
     ```
 
+## Karakter
+
+1. **Gopal**
+   Karakter utama yang dapat dikendalikan oleh pemain.
+   ![gopal](https://github.com/GopalCookies/Tugas-Besar-PBO/assets/167991243/bd7c011a-7515-4642-9a8b-bb325a94d776)
+
+
+2. **Prob**
+   Jenis musuh yang paling dasar. Menyerang Gopal dengan terbang langsung ke arahnya.
+   ![prob](https://github.com/GopalCookies/Tugas-Besar-PBO/assets/167991243/5c5a659b-cf10-46ab-8b2e-94570f8ef742)
+
+
+3. **MultiMonster**
+   Musuh. Terbang langsung ke arah Gopal. Lebih lambat daripada Prob.
+   ![MultiMonster](https://github.com/GopalCookies/Tugas-Besar-PBO/assets/167991243/1705cc8d-175e-4f92-904f-69773dea5f02)
+
+
+4. **Koko Jumbo**
+   Jenis musuh lainnya. Menembakkan laser merah ke arah Gopal.
+![koko](https://github.com/GopalCookies/Tugas-Besar-PBO/assets/167991243/9c8529d8-e6c6-4f02-9c5f-407b515030c6)
+
+   
+5. **Adudu**
+   Jenis musuh yang paling sulit. Memiliki kesehatan terbanyak. Terbang menuju Gopal tetapi sangat lambat. Ketika mati, dia berubah menjadi banyak slime hijau.
+   
+![adudu](https://github.com/GopalCookies/Tugas-Besar-PBO/assets/167991243/2cb43173-8929-408a-a8ca-533d83241854)
+
+
 ## Mekanisme
 ### Pemain mengontrol Gopal
 Pemain menggerakan kursor maka karakter Gopal akan bergerak sesuai arah kursor.
