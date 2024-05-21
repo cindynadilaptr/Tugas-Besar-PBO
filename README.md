@@ -52,7 +52,7 @@
 
    
 8. **Adudu**
-   Jenis musuh yang paling sulit. Memiliki kesehatan terbanyak. Terbang menuju Gopal tetapi sangat lambat. Ketika mati, dia berubah menjadi banyak slime hijau.
+   Jenis musuh yang paling sulit. Memiliki health terbanyak. Terbang menuju Gopal tetapi sangat lambat. Ketika mati, dia berubah menjadi banyak slime hijau.
    
 ![adudu](https://github.com/GopalCookies/Tugas-Besar-PBO/assets/167991243/2cb43173-8929-408a-a8ca-533d83241854)
 
