@@ -26,25 +26,32 @@
 
 1. **Gopal**
    Karakter utama yang dapat dikendalikan oleh pemain.
+
    ![gopal](https://github.com/GopalCookies/Tugas-Besar-PBO/assets/167991243/bd7c011a-7515-4642-9a8b-bb325a94d776)
 
 
-2. **Prob**
+3. **Prob**
    Jenis musuh yang paling dasar. Menyerang Gopal dengan terbang langsung ke arahnya.
+
+   
    ![prob](https://github.com/GopalCookies/Tugas-Besar-PBO/assets/167991243/5c5a659b-cf10-46ab-8b2e-94570f8ef742)
 
 
-3. **MultiMonster**
+5. **MultiMonster**
    Musuh. Terbang langsung ke arah Gopal. Lebih lambat daripada Prob.
+
+   
    ![MultiMonster](https://github.com/GopalCookies/Tugas-Besar-PBO/assets/167991243/1705cc8d-175e-4f92-904f-69773dea5f02)
 
 
-4. **Koko Jumbo**
+7. **Koko Jumbo**
    Jenis musuh lainnya. Menembakkan laser merah ke arah Gopal.
+
+   
 ![koko](https://github.com/GopalCookies/Tugas-Besar-PBO/assets/167991243/9c8529d8-e6c6-4f02-9c5f-407b515030c6)
 
    
-5. **Adudu**
+8. **Adudu**
    Jenis musuh yang paling sulit. Memiliki kesehatan terbanyak. Terbang menuju Gopal tetapi sangat lambat. Ketika mati, dia berubah menjadi banyak slime hijau.
    
 ![adudu](https://github.com/GopalCookies/Tugas-Besar-PBO/assets/167991243/2cb43173-8929-408a-a8ca-533d83241854)
@@ -85,3 +92,12 @@ Ketika objek Laser bertabrakan dengan objek Gopal, pemain akan kehilangan **HEAL
 ## UML Diagram
 ![WhatsApp Image 2024-05-21 at 08 53 58_24b3fca9](https://github.com/GopalCookies/Tugas-Besar-PBO/assets/167991243/5e185e23-4ef1-4aaa-822f-bdbad5024326)
 
+## Credits
+| Nama | NIM | Kontribusi |
+|---|---|---|
+| Bulan Nindya Sapta Saputri | 120140231 | - |
+| Cindy Nadila Putri | 122140002 | Programmer |
+| Muhammad Rafif Vivaldi | 122140026 | Programmer |
+| Amanda Istiazah | 122140081 | Aset dan Dokumentasi |
+| Giulia Puspo Negoro | 122140084 | Aset dan Dokumentasi |
+| Hijrah Fahrezi H.L.T | 122140175 | Programmer |
