@@ -38,6 +38,7 @@ Ketika objek Cookies bertabrakan dengan objek Enemy, musuh akan terhapuskan dan 
 **KHUSUS UNTUK BOSS ENEMY**:
 - Ketika cookies mengenai Adudu, Adudu akan berubah menjadi slime.
 - Jika slime mengenai pemain, skor akan berkurang.
+
 ![WhatsApp Image 2024-05-21 at 08 58 19_1dc3c016](https://github.com/GopalCookies/Tugas-Besar-PBO/assets/167991243/74764a06-6633-4445-9fba-a4ea0daee799)
 
 
