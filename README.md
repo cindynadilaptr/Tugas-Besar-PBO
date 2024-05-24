@@ -92,6 +92,9 @@ Ketika objek Laser bertabrakan dengan objek Gopal, pemain akan kehilangan **HEAL
 ## UML Diagram
 ![WhatsApp Image 2024-05-21 at 08 53 58_24b3fca9](https://github.com/GopalCookies/Tugas-Besar-PBO/assets/167991243/5e185e23-4ef1-4aaa-822f-bdbad5024326)
 
+## Presentasi Game Goopall Cookies!
+https://youtu.be/u0X7fLTj-r4
+
 ## Credits
 | Nama | NIM | Kontribusi |
 |---|---|---|
